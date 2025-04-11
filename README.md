@@ -13,3 +13,8 @@
 - **Scripting:** Bash, Python 
 
 ---
+
+### 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/habeebyusuf/)
+- [Email](Harbeysegun@gmail.com)
+- [X (Twitter)](https://x.com/harbeylefty)
